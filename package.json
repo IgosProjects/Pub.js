@@ -1,0 +1,21 @@
+{
+  "name": "pubjs",
+  "version": "1.0.0",
+  "description": "A Framework to build react + vue apps",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./dist/index.js",
+    "git": "git push -u origin main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/igorseili/pubjs.git"
+  },
+  "author": "Igor Seili",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vue": "^3.4.21"
+  }
+}
